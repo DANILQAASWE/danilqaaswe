@@ -2,15 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danulqaaswe&label=Profile%20views&color=0e75b6&style=flat" alt="danulqaaswe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danulqaaswe" alt="danulqaaswe"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.icons8.ru/?size=100&id=lkh3AbJLmFpp&format=png&color=000000" alt="danulqaaswe"/></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/f_user_name_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f_user_name_id" height="30" width="40" /></a>
-<a href="https://github.com/DANILQAASE" target="blank"/>
-  <img src="https://www.flaticon.com/ru/free-icon/github_3291695?term=github&page=1&position=3&origin=tag&related_id=3291695" width="40" height="40" alt="GitHube">
-</a> 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
