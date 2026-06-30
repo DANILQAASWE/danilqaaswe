@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An experienced developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danulqaaswe&label=Profile%20views&color=0e75b6&style=flat" alt="danulqaaswe" /> </p>
 
